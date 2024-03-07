@@ -1,0 +1,18 @@
+{
+  "moduleInstanceId": "Page1_DateConverter_1",
+  "isPublic": true,
+  "rootModuleInstanceId": "Page1_DateConverter_1",
+  "unpublishedCollection": {
+    "name": "_$DateConverter_1$_DateConverterLib",
+    "pageId": "Page1",
+    "contextType": "PAGE",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "userPermissions": []
+  },
+  "id": "Page1__$DateConverter_1$_DateConverterLib",
+  "deleted": false,
+  "gitSyncId": "65e9a29ccae8390abdf49aad_65e9a57ecae8390abdf49ebc"
+}
